@@ -36,6 +36,3 @@ Este repositório contém exemplos de deploy e automação de infraestrutura de 
 
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
