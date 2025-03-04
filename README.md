@@ -1,6 +1,6 @@
 # Infraestrutura de Dados com Terraform
 
-Este repositório contém exemplos de deploy e automação de infraestrutura de dados utilizando Terraform em ambientes AWS e Azure. 
+Automação e deploy de infraestrutura de dados utilizando Terraform em AWS e Azure.
 
 ## Estrutura
 
